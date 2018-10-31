@@ -1,0 +1,4 @@
+packages/
+bin/
+obj/
+ADONET-SP/.vs/ADONET-SP/v15/Server/sqlite3/db.lock

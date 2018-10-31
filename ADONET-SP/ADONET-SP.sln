@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONET-SP.console", "ADONET-SP.console\ADONET-SP.console.csproj", "{86D38C5E-DE5F-476E-97D2-A127F6BEAFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONET-SP.data", "ADONET-SP.data\ADONET-SP.data.csproj", "{AF4C23C7-1117-4DCB-8B20-0AD0B4A7A706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D38C5E-DE5F-476E-97D2-A127F6BEAFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D38C5E-DE5F-476E-97D2-A127F6BEAFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D38C5E-DE5F-476E-97D2-A127F6BEAFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D38C5E-DE5F-476E-97D2-A127F6BEAFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4C23C7-1117-4DCB-8B20-0AD0B4A7A706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4C23C7-1117-4DCB-8B20-0AD0B4A7A706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4C23C7-1117-4DCB-8B20-0AD0B4A7A706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4C23C7-1117-4DCB-8B20-0AD0B4A7A706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29153D81-E592-4112-B2F0-0019C57AB928}
+	EndGlobalSection
+EndGlobal
